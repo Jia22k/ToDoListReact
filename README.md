@@ -9,13 +9,13 @@ This project serves as a practical learning exercise for students exploring web 
 The application is designed to provide a simple yet effective user experience in managing tasks:
 <br>
 <br>
-Launch: Open the application to start managing tasks.
+- Launch: Open the application to start managing tasks.
 <br>
-Add Tasks: Utilize an 'Add' button to input task details into the system.
+- Add Tasks: Utilize an 'Add' button to input task details into the system.
 <br>
-View Tasks: Tasks are displayed in a table format, allowing for easy reading and management.
+- View Tasks: Tasks are displayed in a table format, allowing for easy reading and management.
 <br>
-Update Tasks: Tasks can be updated as needed using an 'Update' button, ensuring the list remains current and useful.
+- Update Tasks: Tasks can be updated as needed using an 'Update' button, ensuring the list remains current and useful.
 <br>
 
 
