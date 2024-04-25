@@ -11,8 +11,7 @@ The application is designed to provide a simple yet effective user experience in
 - **Update Tasks**: Tasks can be updated as needed using an 'Update' button, ensuring the list remains current and useful.
 
 ## Live Demo
-[View the live demo here using vercel](https://vercel.com/jiana-kambos-projects/to-do-list-react/HHrzoauPCRhwScrDMkcu9DomJdiz)
-
+[View the live demo here using vercel](https://to-do-list-react-c1sba5m54-jiana-kambos-projects.vercel.app/)
 ## Developed Using CodeSandbox
 [Explore the Code on CodeSandbox](https://codesandbox.io/p/github/Jia22k/ToDoListReact/main)
 
