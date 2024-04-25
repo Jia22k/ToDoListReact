@@ -1,6 +1,7 @@
 # ToDoListReact
 
 **Project Description**
+/br
 This project serves as a practical learning exercise for students exploring web application frameworks. The primary task is to develop a 'To Do' application that can be implemented using any SPA (Single Page Application) framework along with a compatible material library. Examples include React with Material-UI, Angular with Angular Material, or Vue with Vuetify. For this course, Vue paired with Vuetify is recommended to ensure compatibility and support during class debug sessions.
 
 **Preview**
