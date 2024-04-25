@@ -8,6 +8,7 @@ This project serves as a practical learning exercise for students exploring web 
 **Preview**<br>
 The application is designed to provide a simple yet effective user experience in managing tasks:
 <br>
+<br>
 Launch: Open the application to start managing tasks.
 <br>
 Add Tasks: Utilize an 'Add' button to input task details into the system.
